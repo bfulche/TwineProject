@@ -1,0 +1,26 @@
+:: StoryTitle
+NewStory
+
+
+:: StoryData
+{
+  "ifid": "875B070C-2DA8-4931-B271-B949A28B9AB7",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Untitled Passage {"position":"575,200","size":"100,100"}
+Yo, check out this cool story.
+
+[[this way]]  [[that way]]
+
+
+:: that way {"position":"637.5,325","size":"100,100"}
+Oh neat, look at this!
+
+
+:: this way {"position":"512.5,325","size":"100,100"}
+Wow, look at that!
